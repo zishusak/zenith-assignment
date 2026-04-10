@@ -89,7 +89,7 @@ user-management-system/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/user-management-system.git
+git clone https://github.com/zishusak/zenith-assignment.git
 cd user-management-system
 ```
 
